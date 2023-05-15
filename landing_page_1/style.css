@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+header{
+    height: 100vh;
+}
+header .banner{
+    background-image: url(img/bg-image.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    border-radius:  0 0 60px 60px;
+}
+header .navbar-brand{
+    color: white;
+    font-weight: 800;
+}
+header .navbar-brand:hover{
+    color: white;
+}
+header .nav-link{
+    color: white;
+}
+header .nav-link:hover{
+    color: white;
+}
+header img{
+    border-radius: 24px;
+}
+header .text-center{
+    padding: 150px;
+}
+header input{
+}
+
+
+/* section 1 */
+.sec-1{
+    height: 100vh;
+}
+.sec-1 h5{
+    margin-top: 30px;
+    font-size: 30px;
+    font-weight: 800;
+}
+.sec-1 h6{
+    font-size: 20px;
+    margin-top: 20px;
+    font-weight: 800;
+}
+.sec-1 img{
+    border-radius: 24px;
+    margin-top: 140px;
+}
+.sec-1 .card{
+    
+}
+.sec-2{
+    height: 100vh;
+}
+.sec-2 h5{
+    margin-top: 30px;
+    font-size: 30px;
+    font-weight: 800;
+}
+.sec-2 img{
+    width: 250px;
+}
+.sec-2 img{
+    margin-top: 140px;
+}
+
+.sec-3{
+    height: 100vh;
+}
+.sec-3 h5{
+    margin-top: 30px;
+    font-size: 30px;
+    font-weight: 800;
+}
+.sec-3 .card{
+    height: 250px;
+    margin-top: 150px;
+    border: black solid 1px;
+    box-shadow: 0 8px 10px 0 rgba(0, 0, 0, 0.2); 
+}
+.sec-3 .card img{
+    border-radius: 10px;
+}
+.sec-4{
+    height: 100vh;
+}
+.sec-4 h5{
+    margin-top: 30px;
+    font-size: 30px;
+    font-weight: 800;
+}
+.sec-4 img{
+    margin-top: 150px;
+    width: 250px;
+}
+.sec-4 p{
+    font-weight: 800;
+}
+
+.sec-5{
+    height: 100vh;
+}
+.sec-5 .text{
+    margin-top: 130px;
+}
+.sec-5 img{
+    border-radius: 30px;
+}
+.sec-5 h5{
+    font-size: 30px;
+    font-weight: 800;
+}
+footer h2{
+    font-weight: 700;
+    font-size: 25px;
+}
+footer i{
+    margin-left: 10px;
+}
